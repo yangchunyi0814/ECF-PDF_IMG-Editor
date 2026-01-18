@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ECF Advanced PDF/IMG Editor",
+  "description": "A comprehensive React-based image and PDF editor featuring OCR, text manipulation, drawing tools, watermarking, and AI-powered enhancements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
